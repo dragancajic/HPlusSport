@@ -1,5 +1,5 @@
-##### Servlets and JSP in Action
+##### Servlets and JSP in Action 😀
 
-## HPlusSport
+## HPlusSport 🏅
 
-#### _Java EE: Servlets and JavaServer Pages (JSP)_
+#### _Java EE: Servlets and JavaServer Pages (JSP)_ 📚
